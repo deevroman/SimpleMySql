@@ -1,0 +1,13 @@
+{
+    "name": "deevroman/simple-my-sql",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deevroman",
+            "email": "roman.deev06@gmail.com"
+        }
+    ],
+    "require": {}
+}
